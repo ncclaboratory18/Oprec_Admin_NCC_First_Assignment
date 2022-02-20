@@ -1,7 +1,7 @@
 # Tugas Pertama Open Recruitment Laboratorium Komputasi Berbasis Jaringan(KBJ)
 
 <p align="center">
-  <img width="400" height="300" src="https://github.com/ncclaboratory18/Oprec_Admin_NCC_First_Assignment/blob/main/Tugas%20Pertama/gambar/memeJurnal.jpg">
+  <img width="400" height="300" src="https://github.com/ncclaboratory18/Oprec_Admin_NCC_First_Assignment/blob/main/gambar/memeJurnal.jpg">
 </p>
 
 ## Pembuka
@@ -18,7 +18,7 @@ Assalamualaikum Warrahmatullahi Wabarakatuh. Selamat Datang diseleksi tahap pert
 6. Melakukan demo sesuai dengan jadwal.
 
 <p align="center">
-  <img width="400" height="300" src="https://github.com/ncclaboratory18/Oprec_Admin_NCC_First_Assignment/blob/main/Tugas%20Pertama/gambar/susu.jpg">
+  <img width="400" height="300" src="https://github.com/ncclaboratory18/Oprec_Admin_NCC_First_Assignment/blob/main/gambar/susu.jpg">
 
 ### Pengumpulan
 1. Pengumpulan ke dalam folder drive berikut ini : https://drive.google.com/drive/folders/1aqCqbRZxGD3Sgv3RJmi_mS6xZb7lUh0U?usp=sharing
